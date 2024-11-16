@@ -2,7 +2,7 @@
     <x-authentication-card>
         <x-slot name="logo">
             <a href="." class="p-1.5 font-black text-3xl text-white font-mono">
-             strikewak.jeger
+             C&F
             </a>
         </x-slot>
         <x-validation-errors class="mb-4" />
